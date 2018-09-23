@@ -1,3 +1,5 @@
+// gosrv
+// start a http server serving files from directory for downloading
 package main
 
 import (
